@@ -53,6 +53,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
 1.  [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) Making Sense of Cryptoeconomics by Josh Stark
+    * "Understanding the mechanism design of a project holding an ICO is an essential tool in determining that token’s utility and likely value."
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) What is Cryptoeconomics, a guide by BlockGeeks
 1.  [How Society Will Be Transformed By Cryptoeconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
