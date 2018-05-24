@@ -66,6 +66,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
+    * [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
 1.  [Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html) Introduction to the concept of Schelling Point
 1.  [Nash Equilibria and Schelling Points](http://lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/)
 1.  [The strategy of conflict book](https://www.amazon.com/Strategy-Conflict-Thomas-C-Schelling-ebook) The Strategy of Conflict
