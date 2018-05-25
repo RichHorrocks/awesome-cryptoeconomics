@@ -66,9 +66,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
-    * [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+    * Wikipedia: [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
 1.  [Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html) Introduction to the concept of Schelling Point
-    * [Focal Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))
+    * Wikipedia: [Focal Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))
 1.  [Nash Equilibria and Schelling Points](http://lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/)
 1.  [The strategy of conflict book](https://www.amazon.com/Strategy-Conflict-Thomas-C-Schelling-ebook) The Strategy of Conflict
 1.  [Mechanism design (deck)](https://www.slideshare.net/stathisgrigoropoulos/mechanism-design-theory-examples-and-complexity-final) Mechanism design theory examples and complexity
@@ -124,12 +124,13 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ### Network Effects
 1.  [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html) by Vitalik Buterin
+    * Wikipedia: [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
 1.  [Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) by Simon de la Rouviere
 1.  [Crypto Tokens:  A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
 1.  [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
 1.  [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
 1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
-
+1.  [On The Network Effects of Stores of Value](https://multicoin.capital/2018/05/09/on-the-network-effects-of-stores-of-value/)
 ### Governance
 1.  [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d) and [Addendum](https://buzzrobot.com/consensus-series-addendum-1-what-do-the-robots-want-729349014aee) by Aleksandr Bulkin
 1.  [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
