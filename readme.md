@@ -186,6 +186,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * Prediction Markets
     * Stablecoins
     * Geospatial Markets
+    
+#### Token Curated Registries
 1.  [Token Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7) by Mike Goldin
     * "Token-curated registries are decentrally-curated lists with intrinsic economic incentives for token holders to curate the list’s contents judiciously."
     * "Token holders have a tactical incentive to challenge and reject every candidate to their registry in the interest of increasing their holdings, but this is at odds with their strategic interest of increasing the value of their holdings. An empty list is of no interest to consumers, so candidates would not bother applying to it. Candidates drive fundamental demand for a registry’s intrinsic token, and so by behaving tactically rather than strategically, token holders go against their own interests and incur a potentially severe financial loss. Generally, it is in the interest of economically rational token holders to behave strategically and curate a high-quality list."
@@ -193,13 +195,21 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
       * "A token must work as a necessary element of a self-sustaining system which is a public utility."
 1.  [City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5)
     * TCRs == binary, Curation Markets (i.e. Bonding Curves) == continuous
-1.  [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
+1.  [Token Curated Registry (TCR) Design Patterns](https://medium.com/coinmonks/token-curated-registry-tcr-design-patterns-4de6d18efa15)
+
+#### Curation Markets (Curved Bonding)
 1.  [Continuous Token-Curated Registries: The Infinity of Lists](https://medium.com/@simondlr/continuous-token-curated-registries-the-infinity-of-lists-69024c9eb70d) by Simon de la Rouviere
 1.  [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) by Simon de la Rouviere
 1.  [Solving Price Discovery Of Non-Rivalrous Goods (with Curved Bonding)](https://medium.com/@simondlr/solving-price-discovery-of-non-rivalrous-goods-with-curved-bonding-27b2186d55d5) by Simon de la Rouviere
-1.  [Hashtag Markets](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
 1.  [How to Make Bonding Curves for Continuous Token Models](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17)
+
+#### Curated Governance
+1.  [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
+
+#### Other
+1.  [Hashtag Markets](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
 1.  [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by Billy Rennekamp
+
 
 ### Tokenomics
 1.  [Token sales models](http://vitalik.ca/general/2017/06/09/sales.html) Token sales models by Vitalik Buterin
