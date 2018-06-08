@@ -74,7 +74,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Standford's Algorithmic Game Theory lecture series](https://theory.stanford.edu/~tim/f13/f13.html)
 1.  [Cryptocurrency Game Theory](https://blockgeeks.com/guides/cryptocurrency-game-theory/) What is Cryptocurrency Game Theory: A Basic introduction
 1.  [Correlated Equilibria](https://www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/) In Game Theory, No Clear Path to Equilibrium
-1.  Wikipedia: [Assurance Contract](https://en.wikipedia.org/wiki/Assurance_contract) 
+1.  Wikipedia: [Assurance Contract](https://en.wikipedia.org/wiki/Assurance_contract)
 
 ### Mechanism Design
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
@@ -174,7 +174,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
 1.  [History Is Rhyming: Fitness Functions & Comparing Blockchain Tokens To The Web](https://hackernoon.com/history-is-rhyming-fitness-functions-comparing-blockchain-tokens-to-the-web-3c117239f4c) by Simon de la Rouviere
 1.  [Introducing Curation Markets: Trade Popularity of Memes & Information ](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881) by Simon de la Rouviere
-1.  [Can Blockchains Go Rogue?](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790) by Trent McConaghy
+1.  [TE Series Part I: Can Blockchains Go Rogue?](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790) by Trent McConaghy
 1.  [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca), with presentation deck [here](https://www.slideshare.net/TrentMcConaghy/towards-a-practice-of-token-engineering) by Trent McConaghy
 1.  [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4) Analysis of Bitcoin, Design of Ocean Protocol by Trent McConaghy
 
@@ -186,7 +186,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * Prediction Markets
     * Stablecoins
     * Geospatial Markets
-    
+
 #### Token Curated Registries
 1.  [Token Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7) by Mike Goldin
     * "Token-curated registries are decentrally-curated lists with intrinsic economic incentives for token holders to curate the list’s contents judiciously."
@@ -196,6 +196,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5)
     * TCRs == binary, Curation Markets (i.e. Bonding Curves) == continuous
 1.  [Token Curated Registry (TCR) Design Patterns](https://medium.com/coinmonks/token-curated-registry-tcr-design-patterns-4de6d18efa15)
+1.  [Graded Token-Curated Decisions with Up-/Downvoting — Designing Cryptoeconomic Ranking and Reputation Systems](https://medium.com/@sebastian.gajek/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)
+1.  :rage3: [Curate This: Token Curated Registries That Don’t Work.](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)
 
 #### Curation Markets (Curved Bonding)
 1.  [Continuous Token-Curated Registries: The Infinity of Lists](https://medium.com/@simondlr/continuous-token-curated-registries-the-infinity-of-lists-69024c9eb70d) by Simon de la Rouviere
@@ -207,7 +209,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
 
 #### Other
-1.  [Hashtag Markets](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
+1.  [Hashtag Markets: Mashing together Reddit, Schelling Points, Tokenisation & Autonomous Organisations](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
 1.  [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by Billy Rennekamp
 
 
