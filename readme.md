@@ -66,6 +66,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
     * Wikipedia: [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+    * Wikipedia: [Ultimatum Game](https://en.wikipedia.org/wiki/Ultimatum_game)
 1.  [Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html) Introduction to the concept of Schelling Point
     * Wikipedia: [Focal Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))
 1.  [Nash Equilibria and Schelling Points](http://lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/)
@@ -197,6 +198,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * TCRs == binary, Curation Markets (i.e. Bonding Curves) == continuous
 1.  [Token Curated Registry (TCR) Design Patterns](https://medium.com/coinmonks/token-curated-registry-tcr-design-patterns-4de6d18efa15)
 1.  [Graded Token-Curated Decisions with Up-/Downvoting — Designing Cryptoeconomic Ranking and Reputation Systems](https://medium.com/@sebastian.gajek/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)
+1. [Token Curated Registries in Development
+](https://medium.com/@brandonarvanaghi/explaining-the-genesis-block-in-ethereum-92f7d6b90c2f)
 1.  :rage3: [Curate This: Token Curated Registries That Don’t Work.](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)
 
 #### Curation Markets (Curved Bonding)
@@ -371,6 +374,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [BE Ted Talk](https://www.ted.com/talks/dan_ariely_on_our_buggy_moral_code) Prof. Dan Ariely's Ted Talk on Behavioural Economics
 1.  [Predictably Irrational book](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) Predictably Irrational by Prof. Dan Ariely
 1.  [The Honest Truth About Dishonesty book](https://www.amazon.de/gp/product/0062183613/) The Honest Truth About Dishonesty by Prof. Dan Ariely
+
+### Related Ideas
+1. Wikipedia: [Groupthink](https://en.wikipedia.org/wiki/Groupthink)
+1. [Sunk Cost Fallacy](https://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/)
 
 ## Economics
 1.  [Awesome Economics](https://github.com/antontarasenko/awesome-economics)
