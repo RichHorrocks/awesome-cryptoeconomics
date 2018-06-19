@@ -63,6 +63,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [How to create a cryptoeconomic protocol from scratch](http://mattgoldenberg.net/2016/10/26/vlad-zamfir-how-to-create-a-crypto-economic-protocol-from-scratch/) by Vlad Zamfir
 1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175) the challenge and promise of Blockchain Incentive Design by Elab Verbin
 
+![Labels](field_labels.png)
+
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
     * Wikipedia: [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
@@ -169,6 +171,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [$5 wrench Attack](https://xkcd.com/538/) XKCD comic on the cheapest attack on cryptography
 
 ### Token Engineering
+
+![Labels](token_engineering.png)
+
 1. Wiki: [Token Engineering](http://tokenengineering.net/)
    * "Creating tokenized ecosystems is hard. How do we figure out what we want? How do we manifest that intent with block rewards and other crypto building blocks? How do we simulate and validate the design? How do we anticipate attacks and respond to them? How do we update the protocols? Given that these systems are wildly powerful, how can we better take responsibility for their design & deployment?"
 1.  [Towards a Hierarchy of Token Building Blocks](https://blog.oceanprotocol.com/towards-a-hierarchy-of-token-building-blocks-6c8dd7b42341)
@@ -176,7 +181,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [History Is Rhyming: Fitness Functions & Comparing Blockchain Tokens To The Web](https://hackernoon.com/history-is-rhyming-fitness-functions-comparing-blockchain-tokens-to-the-web-3c117239f4c) by Simon de la Rouviere
 1.  [Introducing Curation Markets: Trade Popularity of Memes & Information ](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881) by Simon de la Rouviere
 1.  [TE Series Part I: Can Blockchains Go Rogue?](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790) by Trent McConaghy
-1.  [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca), with presentation deck [here](https://www.slideshare.net/TrentMcConaghy/towards-a-practice-of-token-engineering) by Trent McConaghy
+1.  [TE Series Part II: Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca), with presentation deck [here](https://www.slideshare.net/TrentMcConaghy/towards-a-practice-of-token-engineering) by Trent McConaghy
 1.  [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4) Analysis of Bitcoin, Design of Ocean Protocol by Trent McConaghy
 
 ### Cryptoeconomic Primitives
