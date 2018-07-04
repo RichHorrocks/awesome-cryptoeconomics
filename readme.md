@@ -177,7 +177,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1. Wiki: [Token Engineering](http://tokenengineering.net/)
    * "Creating tokenized ecosystems is hard. How do we figure out what we want? How do we manifest that intent with block rewards and other crypto building blocks? How do we simulate and validate the design? How do we anticipate attacks and respond to them? How do we update the protocols? Given that these systems are wildly powerful, how can we better take responsibility for their design & deployment?"
 1.  [Towards a Hierarchy of Token Building Blocks](https://blog.oceanprotocol.com/towards-a-hierarchy-of-token-building-blocks-6c8dd7b42341)
-1.  [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
 1.  [History Is Rhyming: Fitness Functions & Comparing Blockchain Tokens To The Web](https://hackernoon.com/history-is-rhyming-fitness-functions-comparing-blockchain-tokens-to-the-web-3c117239f4c) by Simon de la Rouviere
 1.  [Introducing Curation Markets: Trade Popularity of Memes & Information ](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881) by Simon de la Rouviere
 1.  [TE Series Part I: Can Blockchains Go Rogue?](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790) by Trent McConaghy
@@ -218,11 +217,13 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 #### Other
 1.  [Hashtag Markets: Mashing together Reddit, Schelling Points, Tokenisation & Autonomous Organisations](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
+1.  [Token curated playlists #1: thoughts on staking and consumer applications](https://medium.com/paratii/token-curated-playlists-1-thoughts-on-staking-and-consumer-applications-2a50bc837a94) by Felipe Gaúcho Pereira
 1.  [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by Billy Rennekamp
 
 
 ### Tokenomics
 1.  [Token sales models](http://vitalik.ca/general/2017/06/09/sales.html) Token sales models by Vitalik Buterin
+1.  [Traditional Asset Tokenization](https://hackernoon.com/traditional-asset-tokenization-b8a59585a7e0) by Stephen McKeon
 1.  [A business guide to Tokenomics](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416) by William Mougayar
 1.  [Cryptoasset Valuations](https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7) by Chris Burniske
 1.  [Justified Token Value](https://www.frontierfoundry.co/blog/justified-token-value-part-1) by Adrian Jonklaas
