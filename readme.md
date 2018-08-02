@@ -80,6 +80,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  Wikipedia: [Assurance Contract](https://en.wikipedia.org/wiki/Assurance_contract)
 
 ### Mechanism Design
+"Mechanism Design is often referred to as “reverse game theory” – Game theory is about choosing the best moves in a given game, whereas mechanism design is about creating a game, given the moves you desire."
+
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
 1.  [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf)
