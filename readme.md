@@ -206,6 +206,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Graded Token-Curated Decisions with Up-/Downvoting — Designing Cryptoeconomic Ranking and Reputation Systems](https://medium.com/@sebastian.gajek/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)
 1. [Token Curated Registries in Development
 ](https://medium.com/@brandonarvanaghi/explaining-the-genesis-block-in-ethereum-92f7d6b90c2f)
+1. [Subjective vs. Objective TCRs](https://medium.com/coinmonks/subjective-vs-objective-tcrs-a21f5d848553)
 1.  :rage3: [Curate This: Token Curated Registries That Don’t Work.](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)
 
 #### Curation Markets (Curved Bonding)
