@@ -85,6 +85,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
 1.  [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf)
+1. "It's naive to tackle distribute systems and incentive mechanism design separately" - [Link](https://pbs.twimg.com/media/DhWUzHLVQAIDz8P.jpg)
 
 ### Cryptographic Primitives
 1.  [Cryptographic Primitives](https://en.wikipedia.org/wiki/Cryptographic_primitive) as described in Wikipedia
