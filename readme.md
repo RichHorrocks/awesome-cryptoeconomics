@@ -55,6 +55,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * RELATED FIELD: [Systems Theory](https://en.wikipedia.org/wiki/Systems_theory)
     * RELATED FIELD: [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
 1.  [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
+    * "Cryptoeconomics is the study of economic interaction in adversarial environments."
 1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) by Josh Stark
     * "Understanding the mechanism design of a project holding an ICO is an essential tool in determining that token’s utility and likely value."
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - A guide by BlockGeeks
