@@ -55,8 +55,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * RELATED FIELD: [Systems Theory](https://en.wikipedia.org/wiki/Systems_theory)
     * RELATED FIELD: [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
 1.  [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
-    * "Cryptoeconomics is the study of economic interaction in adversarial environments."
+    * "Cryptoeconomics is the study of economic interaction in adversarial environments." (Where those environments are decentralised or distributed.)
 1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) by Josh Stark
+    * "Cryptoeconomics is the use of incentives and cryptography to design new kinds of systems, applications, and networks."
     * "Understanding the mechanism design of a project holding an ICO is an essential tool in determining that token’s utility and likely value."
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - A guide by BlockGeeks
 1.  [How Society Will Be Transformed By Cryptoeconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
@@ -82,6 +83,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptocurrency Game Theory](https://blockgeeks.com/guides/cryptocurrency-game-theory/) What is Cryptocurrency Game Theory: A Basic introduction
 1.  [Correlated Equilibria](https://www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/) In Game Theory, No Clear Path to Equilibrium
 1.  Wikipedia: [Assurance Contract](https://en.wikipedia.org/wiki/Assurance_contract)
+1. Wikipedia: [Vickrey Auction](https://en.wikipedia.org/wiki/Vickrey_auction)
+   * Bids are secret and the winner of the auction (defined as the player with the highest bid) only pays the second highest amount that was bid.
 
 ### Mechanism Design
 "Mechanism Design is often referred to as “reverse game theory” – Game theory is about choosing the best moves in a given game, whereas mechanism design is about creating a game, given the moves you desire."
