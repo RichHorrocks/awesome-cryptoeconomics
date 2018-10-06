@@ -60,6 +60,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * "Cryptoeconomics is the use of incentives and cryptography to design new kinds of systems, applications, and networks."
     * "Understanding the mechanism design of a project holding an ICO is an essential tool in determining that token’s utility and likely value."
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - A guide by BlockGeeks
+    * PoS negates _P + epsilon_ attack. Bribes (_epsilon_) no longer outweigh punishments.
 1.  [How Society Will Be Transformed By Cryptoeconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 1.  [Vivek Singh's Cryptoeconomics in context](https://hackernoon.com/cryptoeconomics-in-context-6435ad6839be)
