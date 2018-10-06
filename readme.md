@@ -61,8 +61,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * "Understanding the mechanism design of a project holding an ICO is an essential tool in determining that token’s utility and likely value."
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - A guide by BlockGeeks
     * PoS negates _P + epsilon_ attack. Bribes (_epsilon_) no longer outweigh punishments.
-1.  [How Society Will Be Transformed By Cryptoeconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
+    * " Using cryptography, the blockchain concept allows us to definitively prove what transactions actually happened in the past. Through game theory and economics incorporated into the design of blockchain protocols, the system incentivizes stability and this common good to hold into the _future_."
+    * PoS is resistant to the P + epsilon attack because the attacker will have to credibly show an enormous budget to subsidize the participants’ security deposits.
 1.  [Vivek Singh's Cryptoeconomics in context](https://hackernoon.com/cryptoeconomics-in-context-6435ad6839be)
 1.  [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4) by RMIT Blockchain Innovation Hub
 1.  [Cryptoeconomics is Hard Part 1](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9), [Part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) and [Part 3](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) by Aleksandr Bulkin
