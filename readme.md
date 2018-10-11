@@ -71,6 +71,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomics is Hard Part 1](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9), [Part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) and [Part 3](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) by Aleksandr Bulkin
 1.  [How to create a cryptoeconomic protocol from scratch](http://mattgoldenberg.net/2016/10/26/vlad-zamfir-how-to-create-a-crypto-economic-protocol-from-scratch/) by Vlad Zamfir
 1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175): The challenge and promise of Blockchain Incentive Design by Elab Verbin
+    * [Congnitive deliberation costs](https://en.wikipedia.org/wiki/Choice_architecture#Reducing_choice_overload)
+    * [Overchoice](https://en.wikipedia.org/wiki/Overchoice) - "The tyranny of choice..."
 
 ![Labels](field_labels.png)
 
@@ -153,6 +155,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
 1.  [On The Network Effects of Stores of Value](https://multicoin.capital/2018/05/09/on-the-network-effects-of-stores-of-value/)
 1.  [Power laws and Network Effects: Why BitcoinCash is not a free lunch](https://cryptofundamental.com/power-laws-and-network-effects-why-bitcoincash-is-not-a-free-lunch-5adb579972aa)
+
 ### Governance
 1.  [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d) and [Addendum](https://buzzrobot.com/consensus-series-addendum-1-what-do-the-robots-want-729349014aee) by Aleksandr Bulkin
 1.  [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
@@ -203,7 +206,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ### Cryptoeconomic Primitives
 1. [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10) by Jacob Horne
-    * "Protocol based incentives systems that are uniquely enabled by tokens. Also referred to as “tokenized economic games”. "
+    * "Protocol based incentives systems that are uniquely enabled by tokens. Also referred to as “tokenized economic games”."
+1. [Rewriting the Story of Human Collaboration - Or, an Introduction to Token Bonding & Curation Markets](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8)
     * Token Curated Registries
     * Curation Markets (i.e bonding curves)
     * Prediction Markets
