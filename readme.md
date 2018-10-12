@@ -77,12 +77,15 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ![Labels](field_labels.png)
 
 ### Game Theory
+"Game theory generally refers to the study of mathematical models that describe the behavior of logical decision-makers (who want to maximise their payoff). A game refers to a situation involving a set of players who each have a set of possible choices, in which the outcome for any individual player depends partially on the choices made by other players."
+
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
     * Wikipedia: [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
     * Wikipedia: [Ultimatum Game](https://en.wikipedia.org/wiki/Ultimatum_game)
 1.  [Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html) Introduction to the concept of Schelling Point
     * Wikipedia: [Focal Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))
 1.  [Nash Equilibria and Schelling Points](http://lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/)
+    * "A Nash Equilibrium is a set of choices in which no player has anything to gain by changing only their own choice."
 1.  [The strategy of conflict book](https://www.amazon.com/Strategy-Conflict-Thomas-C-Schelling-ebook) The Strategy of Conflict
 1.  [Mechanism design (deck)](https://www.slideshare.net/stathisgrigoropoulos/mechanism-design-theory-examples-and-complexity-final) Mechanism design theory examples and complexity
 1.  [Standford's Algorithmic Game Theory lecture series](https://theory.stanford.edu/~tim/f13/f13.html)
