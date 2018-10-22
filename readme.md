@@ -85,8 +85,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html) Introduction to the concept of Schelling Point
     * Wikipedia: [Focal Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))
 1.  [Nash Equilibria and Schelling Points](http://lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/)
-    * "A Nash Equilibrium is a set of choices in which no player has anything to gain by changing only their own choice."
-1.  [The strategy of conflict book](https://www.amazon.com/Strategy-Conflict-Thomas-C-Schelling-ebook) The Strategy of Conflict
+    * "A Nash Equilibrium is a set of choices in which no player has anything to gain by changing only their own choice. They are often applied to games in which both players move simultaneously and where decision trees are less useful."
 1.  [Mechanism design (deck)](https://www.slideshare.net/stathisgrigoropoulos/mechanism-design-theory-examples-and-complexity-final) Mechanism design theory examples and complexity
 1.  [Standford's Algorithmic Game Theory lecture series](https://theory.stanford.edu/~tim/f13/f13.html)
 1.  [Cryptocurrency Game Theory](https://blockgeeks.com/guides/cryptocurrency-game-theory/) What is Cryptocurrency Game Theory: A Basic introduction
