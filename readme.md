@@ -101,6 +101,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 "Mechanism design is a field of economics dedicated to the study of mechanisms to (dis)/incentivize actions."
 
+"Creating tokens without studying mechanism design is like building new cryptosystems without reading any crypto papers... "
+
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
 1.  [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf)
@@ -217,6 +219,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * Geospatial Markets
 
 #### Token Curated Registries
+
+Code: https://github.com/skmgoldin/tcr
+
 1.  [Token Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7) by Mike Goldin
     * "Token-curated registries are decentrally-curated lists with intrinsic economic incentives for token holders to curate the list’s contents judiciously."
     * "Token holders have a tactical incentive to challenge and reject every candidate to their registry in the interest of increasing their holdings, but this is at odds with their strategic interest of increasing the value of their holdings. An empty list is of no interest to consumers, so candidates would not bother applying to it. Candidates drive fundamental demand for a registry’s intrinsic token, and so by behaving tactically rather than strategically, token holders go against their own interests and incur a potentially severe financial loss. Generally, it is in the interest of economically rational token holders to behave strategically and curate a high-quality list."
@@ -230,13 +235,25 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ](https://medium.com/@brandonarvanaghi/explaining-the-genesis-block-in-ethereum-92f7d6b90c2f)
 1. [Subjective vs. Objective TCRs](https://medium.com/coinmonks/subjective-vs-objective-tcrs-a21f5d848553)
 1. [Incentive alignment in Token Curated Registries](https://medium.com/paratii/incentive-alignment-in-token-curated-registries-4d6e41652a9b)
+1. [Learnings from MetaX on Launching The First Token-Curated Registry (TCR)](https://medium.com/metax-publication/learnings-from-metax-on-launching-the-first-token-curated-registry-c30140d5052c)
 1.  :rage3: [Curate This: Token Curated Registries That Don’t Work.](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)
 
-#### Curation Markets (Curved Bonding)
+###### Projects
+1. Civil
+1. FOAM
+1. adChain
+
+#### Curation Markets (Curved Bonding Contracts or Token Bonding Curves)
+1. [Token Bonding Curves Explained](https://medium.com/@justingoro/token-bonding-curves-explained-7a9332198e0e)
+1. [Can We Save The Utility Token?](https://medium.com/collabs-io/can-we-save-the-utility-token-55ef639370cf)
+   * Utility Tokens exhibit the "velocity problem":
+     * [The Blockchain Token Velocity problem](https://www.coindesk.com/blockchain-token-velocity-problem/)
+     * [The False Dichotomy of Utility and Store of Value](https://medium.com/@QwQiao/the-false-dichotomy-of-utility-and-store-of-value-27fe12bf3bdb)
 1.  [Continuous Token-Curated Registries: The Infinity of Lists](https://medium.com/@simondlr/continuous-token-curated-registries-the-infinity-of-lists-69024c9eb70d) by Simon de la Rouviere
 1.  [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) by Simon de la Rouviere
 1.  [Solving Price Discovery Of Non-Rivalrous Goods (with Curved Bonding)](https://medium.com/@simondlr/solving-price-discovery-of-non-rivalrous-goods-with-curved-bonding-27b2186d55d5) by Simon de la Rouviere
 1.  [How to Make Bonding Curves for Continuous Token Models](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17)
+1.  [Bonding curve simulation using Incentivai](https://medium.com/incentivai/bonding-curve-simulation-using-incentivai-2b2bfe0c6400)
 
 #### Curated Governance
 1.  [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
@@ -246,6 +263,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Token curated playlists #1: thoughts on staking and consumer applications](https://medium.com/paratii/token-curated-playlists-1-thoughts-on-staking-and-consumer-applications-2a50bc837a94) by Felipe Gaúcho Pereira
 1.  [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by Billy Rennekamp
 
+#### Tools
+
+1. [Incentivai](http://incentivai.co/)
+   * "... is a tool for testing mechanism design of smart contract economies. It is done prior to deployment onto blockchain via simulation using AI agents."
 
 ### Tokenomics
 1.  [Token sales models](http://vitalik.ca/general/2017/06/09/sales.html) Token sales models by Vitalik Buterin
@@ -255,8 +276,11 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Justified Token Value](https://www.frontierfoundry.co/blog/justified-token-value-part-1) by Adrian Jonklaas
 1.  [Understanding Token Velocity](https://multicoin.capital/2017/12/08/understanding-token-velocity/)
 1.  [On Value, Velocity and Monetary Theory](https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f)
+    * "The velocity of money is the rate at which money is exchanged from one transaction to another. It also refers to how much a unit of currency is used in a given period of time."
 1.  [The Token Classification Framework](http://www.untitled-inc.com/the-token-classification-framework-a-multi-dimensional-tool-for-understanding-and-classifying-crypto-tokens/) a multi-dimensional tool for understanding and classifying crypto tokens
 1.  [MV = PQ isn't right for crypto](https://medium.com/@AustereCapital/mv-p-que-love-and-circularity-in-the-time-of-crypto-1626c8ac297f) a case made by Austere Capital
+1.  [The Blockchain Token Velocity Problem](https://www.coindesk.com/blockchain-token-velocity-problem/)
+    * "Most utility tokens don't provide a compelling reason for token holders to hold the token for more than a few seconds."
 1.  [The quantitative theory of money for tokens](https://blog.coinfund.io/the-quantity-theory-of-money-for-tokens-dbfbc5472423) a rebuttal of the MV = PQ theory by Warren Weber
 1.  [NVT - network value to transactions ratio](https://coinmetrics.io/mtv-ratio-part-ii/) a market to transaction value proposal by Coinmetrics
 
