@@ -105,7 +105,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
-1.  [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf)
 1. "It's naive to tackle distribute systems and incentive mechanism design separately" - [Link](https://pbs.twimg.com/media/DhWUzHLVQAIDz8P.jpg)
 
 ### Cryptographic Primitives
@@ -212,7 +211,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1. [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10) by Jacob Horne
     * "Protocol based incentives systems that are uniquely enabled by tokens. Also referred to as “tokenized economic games”."
 1. [Rewriting the Story of Human Collaboration - Or, an Introduction to Token Bonding & Curation Markets](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8)
-    * Token Curated Registries
+    * Token Curated Registries (i.e. TCRs)
+    * Token-Ranked Lists (i.e. TRLs)
     * Curation Markets (i.e bonding curves)
     * Prediction Markets
     * Stablecoins
@@ -227,6 +227,8 @@ Code: https://github.com/skmgoldin/tcr
     * "Token holders have a tactical incentive to challenge and reject every candidate to their registry in the interest of increasing their holdings, but this is at odds with their strategic interest of increasing the value of their holdings. An empty list is of no interest to consumers, so candidates would not bother applying to it. Candidates drive fundamental demand for a registry’s intrinsic token, and so by behaving tactically rather than strategically, token holders go against their own interests and incur a potentially severe financial loss. Generally, it is in the interest of economically rational token holders to behave strategically and curate a high-quality list."
     * [Mike’s Cryptosystems Manifesto](https://docs.google.com/document/d/1TcceAsBlAoFLWSQWYyhjmTsZCp0XqRhNdGMb6JbASxc/edit)
       * "A token must work as a necessary element of a self-sustaining system which is a public utility."
+1.  [Token Curated Registries 1.1, 2.0 TCRs, new theory, and dev updates](https://medium.com/@ilovebagels/token-curated-registries-1-1-2-0-tcrs-new-theory-and-dev-updates-34c9f079f33d) by Mike Goldin
+    * [A Closer Look at TCR 1.1 and the µ Equation]()
 1.  [City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5)
     * TCRs == binary, Curation Markets (i.e. Bonding Curves) == continuous
 1.  [Token Curated Registry (TCR) Design Patterns](https://medium.com/coinmonks/token-curated-registry-tcr-design-patterns-4de6d18efa15)
@@ -236,12 +238,20 @@ Code: https://github.com/skmgoldin/tcr
 1. [Subjective vs. Objective TCRs](https://medium.com/coinmonks/subjective-vs-objective-tcrs-a21f5d848553)
 1. [Incentive alignment in Token Curated Registries](https://medium.com/paratii/incentive-alignment-in-token-curated-registries-4d6e41652a9b)
 1. [Learnings from MetaX on Launching The First Token-Curated Registry (TCR)](https://medium.com/metax-publication/learnings-from-metax-on-launching-the-first-token-curated-registry-c30140d5052c)
+1. [Investable Token Curated Registries](https://decentralize.today/investable-token-curated-registries-1e395f1b3471)
+1. [Sponsored Burning for TCR](https://medium.com/@avsa/sponsored-burning-for-tcr-c0ab08eef9d4)
+1. [When Can Token Curated Registries Actually Work?](https://medium.com/wireline/when-can-token-curated-registries-actually-work-%C2%B9-2ad908653aaf)
 1.  :rage3: [Curate This: Token Curated Registries That Don’t Work.](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)
 
 ###### Projects
-1. Civil
-1. FOAM
-1. adChain
+* Civil
+* FOAM
+* adChain
+* District0x
+
+#### Token-Ranked Lists
+
+1. [Introducing Token-Ranked Lists (TRLs)](https://medium.com/@marcziade/introducing-token-ranked-lists-trls-3394ec2e360b)
 
 #### Curation Markets (Curved Bonding Contracts or Token Bonding Curves)
 1. [Token Bonding Curves Explained](https://medium.com/@justingoro/token-bonding-curves-explained-7a9332198e0e)
@@ -254,9 +264,18 @@ Code: https://github.com/skmgoldin/tcr
 1.  [Solving Price Discovery Of Non-Rivalrous Goods (with Curved Bonding)](https://medium.com/@simondlr/solving-price-discovery-of-non-rivalrous-goods-with-curved-bonding-27b2186d55d5) by Simon de la Rouviere
 1.  [How to Make Bonding Curves for Continuous Token Models](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17)
 1.  [Bonding curve simulation using Incentivai](https://medium.com/incentivai/bonding-curve-simulation-using-incentivai-2b2bfe0c6400)
+1. [_Dynamic_ Token Bonding Curves](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa)
+   * "What if we had bonding curves that used the shared funds in a bonding contract, but the curve were based on the individual token holder’s ‘activity’ (i.e. their portion of the total token supply)?"
+1. [On Bonding Curves as Funding Mechanisms](https://medium.com/thoughtchains/on-bonding-curves-as-funding-mechanisms-a0812b22cc3d)
+
+###### Projects
+* Bancor
 
 #### Curated Governance
 1.  [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
+
+#### Curated Reputation
+1. [Claims Curated Registries: Thoughts on reputation development](https://medium.com/@EntrpoicNonsense/claims-curated-registries-thoughts-on-reputation-development-6d368c81516) - [See TCRs]
 
 #### Other
 1.  [Hashtag Markets: Mashing together Reddit, Schelling Points, Tokenisation & Autonomous Organisations](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
