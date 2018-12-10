@@ -153,15 +153,17 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Intro to Ethermint BFT](https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4)
 
 ### Network Effects
-1.  [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html) by Vitalik Buterin
+1.  :ballot_box_with_check: [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html) by Vitalik Buterin
     * Wikipedia: [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
+    * Not N<sup>2</sup> except at low numbers. More like N*log(N).
+1. :ballot_box_with_check: [How I learned to stop worrying and love ETC](http://pdaian.com/blog/stop-worrying-love-etc/)
 1.  [Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) by Simon de la Rouviere
 1.  [Crypto Tokens:  A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
 1.  [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
 1.  [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
 1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
 1.  [On The Network Effects of Stores of Value](https://multicoin.capital/2018/05/09/on-the-network-effects-of-stores-of-value/)
-1.  [Power laws and Network Effects: Why BitcoinCash is not a free lunch](https://cryptofundamental.com/power-laws-and-network-effects-why-bitcoincash-is-not-a-free-lunch-5adb579972aa)
+1.  :ballot_box_with_check: [Power laws and Network Effects: Why BitcoinCash is not a free lunch](https://cryptofundamental.com/power-laws-and-network-effects-why-bitcoincash-is-not-a-free-lunch-5adb579972aa)
 
 ### Governance
 1.  [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d) and [Addendum](https://buzzrobot.com/consensus-series-addendum-1-what-do-the-robots-want-729349014aee) by Aleksandr Bulkin
