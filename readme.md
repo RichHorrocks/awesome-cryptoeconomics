@@ -120,11 +120,11 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 #### PoW - Proof of Work
 1.  :ballot_box_with_check: [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
-    * PoW provides Sybil protections
+    * PoW provides Sybil protection
 1.  :ballot_box_with_check: [The PoW concept](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
     * [Handicap Principle](https://en.wikipedia.org/wiki/Handicap_principle) - "The central idea is that sexually selected traits function like conspicuous consumption, signalling the ability to afford to squander a resource. Receivers know that the signal indicates quality because inferior quality signallers cannot afford to produce such wastefully extravagant signals."
-1.  [Proof of Work vs Proof of Stake](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) by BlockGeeks
-1.  [Vulnerability: Proof of Work vs. Proof of Stake](https://medium.com/@robertgreenfieldiv/vulnerability-proof-of-work-vs-proof-of-stake-f0c44807d18c)
+1.  :ballot_box_with_check: [Vulnerability: Proof of Work vs. Proof of Stake](https://medium.com/@robertgreenfieldiv/vulnerability-proof-of-work-vs-proof-of-stake-f0c44807d18c)
+    * PoW has objective consensus protocol. PoS is weakly subjective.
 
 #### PoS - Proof of Stake
 1.  [Strengths and Weaknesses of PoS](https://blog.ethereum.org/2014/07/05/stake/) Vitalik Buterin's article on the strengths and weaknesses of staking contrasting to PoW algorithms
