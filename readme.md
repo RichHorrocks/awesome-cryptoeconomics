@@ -119,8 +119,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Consensus Mechanisms
 
 #### PoW - Proof of Work
-1.  [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
-1.  [The PoW concept](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
+1.  :ballot_box_with_check: [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
+  * PoW provides Sybil protections
+1.  :ballot_box_with_check: [The PoW concept](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
+  * [Handicap Principle](https://en.wikipedia.org/wiki/Handicap_principle) - "The central idea is that sexually selected traits function like conspicuous consumption, signalling the ability to afford to squander a resource. Receivers know that the signal indicates quality because inferior quality signallers cannot afford to produce such wastefully extravagant signals."
 1.  [Proof of Work vs Proof of Stake](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) by BlockGeeks
 1.  [Vulnerability: Proof of Work vs. Proof of Stake](https://medium.com/@robertgreenfieldiv/vulnerability-proof-of-work-vs-proof-of-stake-f0c44807d18c)
 
