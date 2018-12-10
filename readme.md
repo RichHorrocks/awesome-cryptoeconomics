@@ -52,25 +52,25 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Introductory
 “Cryptoeconomics is the application of incentive mechanism design to information security problems.”
 
-1.  [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
+1.  :ballot_box_with_check: [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
     * "The purpose of a system is what it does" - [POSIWID](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
     * RELATED FIELD: [Systems Theory](https://en.wikipedia.org/wiki/Systems_theory)
     * RELATED FIELD: [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
-1.  [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
+1.  :ballot_box_with_check: [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
     * "Cryptoeconomics is the study of economic interaction in adversarial environments." (Where those environments are decentralised or distributed.)
-1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) by Josh Stark
+1.  :ballot_box_with_check: [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) by Josh Stark
     * "Cryptoeconomics is the use of incentives and cryptography to design new kinds of systems, applications, and networks."
     * "Understanding the mechanism design of a project holding an ICO is an essential tool in determining that token’s utility and likely value."
-1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - A guide by BlockGeeks
+1.  :ballot_box_with_check: [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - A guide by BlockGeeks
     * PoS negates _P + epsilon_ attack. Bribes (_epsilon_) no longer outweigh punishments.
-1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
+1.  :ballot_box_with_check: [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
     * "Using cryptography, the blockchain concept allows us to definitively prove what transactions actually happened in the past. Through game theory and economics incorporated into the design of blockchain protocols, the system incentivizes stability and this common good to hold into the _future_."
     * PoS is resistant to the P + epsilon attack because the attacker will have to credibly show an enormous budget to subsidize the participants’ security deposits.
-1.  [Vivek Singh's Cryptoeconomics in context](https://hackernoon.com/cryptoeconomics-in-context-6435ad6839be)
+1.  :ballot_box_with_check: [Vivek Singh's Cryptoeconomics in context](https://hackernoon.com/cryptoeconomics-in-context-6435ad6839be)
 1.  [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4) by RMIT Blockchain Innovation Hub
-1.  [Cryptoeconomics is Hard Part 1](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9), [Part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) and [Part 3](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) by Aleksandr Bulkin
-1.  [How to create a cryptoeconomic protocol from scratch](http://mattgoldenberg.net/2016/10/26/vlad-zamfir-how-to-create-a-crypto-economic-protocol-from-scratch/) by Vlad Zamfir
-1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175): The challenge and promise of Blockchain Incentive Design by Elab Verbin
+1.  :ballot_box_with_check: [Cryptoeconomics is Hard Part 1](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9), [Part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) and [Part 3](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) by Aleksandr Bulkin
+1.  :ballot_box_with_check: [How to create a cryptoeconomic protocol from scratch](http://mattgoldenberg.net/2016/10/26/vlad-zamfir-how-to-create-a-crypto-economic-protocol-from-scratch/) by Vlad Zamfir
+1.  :ballot_box_with_check: [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175): The challenge and promise of Blockchain Incentive Design by Elab Verbin
     * [Congnitive deliberation costs](https://en.wikipedia.org/wiki/Choice_architecture#Reducing_choice_overload)
     * [Overchoice](https://en.wikipedia.org/wiki/Overchoice) - "The tyranny of choice..."
 
@@ -79,20 +79,22 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Game Theory
 "Game theory generally refers to the study of mathematical models that describe the behavior of logical decision-makers (who want to maximise their payoff). A game refers to a situation involving a set of players who each have a set of possible choices, in which the outcome for any individual player depends partially on the choices made by other players."
 
-1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
+1.  :ballot_box_with_check: [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
     * Wikipedia: [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
     * Wikipedia: [Ultimatum Game](https://en.wikipedia.org/wiki/Ultimatum_game)
-1.  [Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html) Introduction to the concept of Schelling Point
+1.  :ballot_box_with_check: [Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html) Introduction to the concept of Schelling Point
     * Wikipedia: [Focal Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))
-1.  [Nash Equilibria and Schelling Points](http://lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/)
+1.  :ballot_box_with_check: [Nash Equilibria and Schelling Points](http://lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/)
     * "A Nash Equilibrium is a set of choices in which no player has anything to gain by changing only their own choice. They are often applied to games in which both players move simultaneously and where decision trees are less useful."
-1.  [Mechanism design (deck)](https://www.slideshare.net/stathisgrigoropoulos/mechanism-design-theory-examples-and-complexity-final) Mechanism design theory examples and complexity
+1.  :ballot_box_with_check: [Mechanism design (deck)](https://www.slideshare.net/stathisgrigoropoulos/mechanism-design-theory-examples-and-complexity-final) Mechanism design theory examples and complexity
 1.  [Standford's Algorithmic Game Theory lecture series](https://theory.stanford.edu/~tim/f13/f13.html)
-1.  [Cryptocurrency Game Theory](https://blockgeeks.com/guides/cryptocurrency-game-theory/) What is Cryptocurrency Game Theory: A Basic introduction
-1.  [Correlated Equilibria](https://www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/) In Game Theory, No Clear Path to Equilibrium
-1.  Wikipedia: [Assurance Contract](https://en.wikipedia.org/wiki/Assurance_contract)
-1. Wikipedia: [Vickrey Auction](https://en.wikipedia.org/wiki/Vickrey_auction)
+1.  :ballot_box_with_check: [Cryptocurrency Game Theory](https://blockgeeks.com/guides/cryptocurrency-game-theory/) What is Cryptocurrency Game Theory: A Basic introduction
+1.  :ballot_box_with_check: [Correlated Equilibria](https://www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/) In Game Theory, No Clear Path to Equilibrium
+1. :ballot_box_with_check:  Wikipedia: [Assurance Contract](https://en.wikipedia.org/wiki/Assurance_contract)
+1. :ballot_box_with_check: Wikipedia: [Vickrey Auction](https://en.wikipedia.org/wiki/Vickrey_auction)
    * Bids are secret and the winner of the auction (defined as the player with the highest bid) only pays the second highest amount that was bid.
+1. :ballot_box_with_check: Wikipedia: [All-Pay Auction](https://en.wikipedia.org/wiki/All-pay_auction)
+   * An auction in which every bidder must pay regardless of whether they win the prize.
 
 ### Mechanism Design
 "Mechanism Design is often referred to as “reverse game theory” – Game theory is about choosing the best moves in a given game, whereas mechanism design is about creating a game, given the moves you desire."
@@ -103,16 +105,16 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 "Creating tokens without studying mechanism design is like building new cryptosystems without reading any crypto papers... "
 
-1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
-1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
+1.  :ballot_box_with_check: [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
+1.  :ballot_box_with_check: [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
 1. "It's naive to tackle distribute systems and incentive mechanism design separately" - [Link](https://pbs.twimg.com/media/DhWUzHLVQAIDz8P.jpg)
 
 ### Cryptographic Primitives
-1.  [Cryptographic Primitives](https://en.wikipedia.org/wiki/Cryptographic_primitive) as described in Wikipedia
+1.  :ballot_box_with_check: [Cryptographic Primitives](https://en.wikipedia.org/wiki/Cryptographic_primitive) as described in Wikipedia
 1.  [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/) by Dan Boneh and Victor Shoup
-1.  [Ethereum: Signing and Validating](https://medium.com/@angellopozo/ethereum-signing-and-validating-13a2d7cb0ee3)
-1.  [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/) by Vitalik Buterin
-1.  [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) by Arvind Narayanan and Jeremy Clark
+1.  :ballot_box_with_check: [Ethereum: Signing and Validating](https://medium.com/@angellopozo/ethereum-signing-and-validating-13a2d7cb0ee3)
+1.  :ballot_box_with_check: [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/) by Vitalik Buterin
+1.  :ballot_box_with_check: [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) by Arvind Narayanan and Jeremy Clark
 
 ### Consensus Mechanisms
 
@@ -208,9 +210,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4) Analysis of Bitcoin, Design of Ocean Protocol by Trent McConaghy
 
 ### Cryptoeconomic Primitives
-1. [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10) by Jacob Horne
+1. :ballot_box_with_check: [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10) by Jacob Horne
     * "Protocol based incentives systems that are uniquely enabled by tokens. Also referred to as “tokenized economic games”."
-1. [Rewriting the Story of Human Collaboration - Or, an Introduction to Token Bonding & Curation Markets](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8)
+1. :ballot_box_with_check: [Rewriting the Story of Human Collaboration - Or, an Introduction to Token Bonding & Curation Markets](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8)
     * Token Curated Registries (i.e. TCRs)
     * Token-Ranked Lists (i.e. TRLs)
     * Curation Markets (i.e bonding curves)
@@ -222,12 +224,12 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 Code: https://github.com/skmgoldin/tcr
 
-1.  [Token Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7) by Mike Goldin
+1.  :ballot_box_with_check: [Token Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7) by Mike Goldin
     * "Token-curated registries are decentrally-curated lists with intrinsic economic incentives for token holders to curate the list’s contents judiciously."
     * "Token holders have a tactical incentive to challenge and reject every candidate to their registry in the interest of increasing their holdings, but this is at odds with their strategic interest of increasing the value of their holdings. An empty list is of no interest to consumers, so candidates would not bother applying to it. Candidates drive fundamental demand for a registry’s intrinsic token, and so by behaving tactically rather than strategically, token holders go against their own interests and incur a potentially severe financial loss. Generally, it is in the interest of economically rational token holders to behave strategically and curate a high-quality list."
     * [Mike’s Cryptosystems Manifesto](https://docs.google.com/document/d/1TcceAsBlAoFLWSQWYyhjmTsZCp0XqRhNdGMb6JbASxc/edit)
       * "A token must work as a necessary element of a self-sustaining system which is a public utility."
-1.  [Token Curated Registries 1.1, 2.0 TCRs, new theory, and dev updates](https://medium.com/@ilovebagels/token-curated-registries-1-1-2-0-tcrs-new-theory-and-dev-updates-34c9f079f33d) by Mike Goldin
+1.  :ballot_box_with_check: [Token Curated Registries 1.1, 2.0 TCRs, new theory, and dev updates](https://medium.com/@ilovebagels/token-curated-registries-1-1-2-0-tcrs-new-theory-and-dev-updates-34c9f079f33d) by Mike Goldin
     * [A Closer Look at TCR 1.1 and the µ Equation]()
 1.  [City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5)
     * TCRs == binary, Curation Markets (i.e. Bonding Curves) == continuous
@@ -237,11 +239,11 @@ Code: https://github.com/skmgoldin/tcr
 ](https://medium.com/@brandonarvanaghi/explaining-the-genesis-block-in-ethereum-92f7d6b90c2f)
 1. [Subjective vs. Objective TCRs](https://medium.com/coinmonks/subjective-vs-objective-tcrs-a21f5d848553)
 1. [Incentive alignment in Token Curated Registries](https://medium.com/paratii/incentive-alignment-in-token-curated-registries-4d6e41652a9b)
-1. [Learnings from MetaX on Launching The First Token-Curated Registry (TCR)](https://medium.com/metax-publication/learnings-from-metax-on-launching-the-first-token-curated-registry-c30140d5052c)
-1. [Investable Token Curated Registries](https://decentralize.today/investable-token-curated-registries-1e395f1b3471)
-1. [Sponsored Burning for TCR](https://medium.com/@avsa/sponsored-burning-for-tcr-c0ab08eef9d4)
-1. [When Can Token Curated Registries Actually Work?](https://medium.com/wireline/when-can-token-curated-registries-actually-work-%C2%B9-2ad908653aaf)
-1.  :rage3: [Curate This: Token Curated Registries That Don’t Work.](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)
+1. :ballot_box_with_check: [Learnings from MetaX on Launching The First Token-Curated Registry (TCR)](https://medium.com/metax-publication/learnings-from-metax-on-launching-the-first-token-curated-registry-c30140d5052c)
+1. :ballot_box_with_check: [Investable Token Curated Registries](https://decentralize.today/investable-token-curated-registries-1e395f1b3471)
+1. :ballot_box_with_check: [Sponsored Burning for TCR](https://medium.com/@avsa/sponsored-burning-for-tcr-c0ab08eef9d4)
+1. :ballot_box_with_check: [When Can Token Curated Registries Actually Work?](https://medium.com/wireline/when-can-token-curated-registries-actually-work-%C2%B9-2ad908653aaf)
+1.  :ballot_box_with_check: :rage3: [Curate This: Token Curated Registries That Don’t Work.](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)
 
 ###### Projects
 * Civil
@@ -251,11 +253,11 @@ Code: https://github.com/skmgoldin/tcr
 
 #### Token-Ranked Lists
 
-1. [Introducing Token-Ranked Lists (TRLs)](https://medium.com/@marcziade/introducing-token-ranked-lists-trls-3394ec2e360b)
+1. :ballot_box_with_check: [Introducing Token-Ranked Lists (TRLs)](https://medium.com/@marcziade/introducing-token-ranked-lists-trls-3394ec2e360b)
 
 #### Curation Markets (Curved Bonding Contracts or Token Bonding Curves)
-1. [Token Bonding Curves Explained](https://medium.com/@justingoro/token-bonding-curves-explained-7a9332198e0e)
-1. [Can We Save The Utility Token?](https://medium.com/collabs-io/can-we-save-the-utility-token-55ef639370cf)
+1. :ballot_box_with_check: [Token Bonding Curves Explained](https://medium.com/@justingoro/token-bonding-curves-explained-7a9332198e0e)
+1. :ballot_box_with_check: [Can We Save The Utility Token?](https://medium.com/collabs-io/can-we-save-the-utility-token-55ef639370cf)
    * Utility Tokens exhibit the "velocity problem":
      * [The Blockchain Token Velocity problem](https://www.coindesk.com/blockchain-token-velocity-problem/)
      * [The False Dichotomy of Utility and Store of Value](https://medium.com/@QwQiao/the-false-dichotomy-of-utility-and-store-of-value-27fe12bf3bdb)
@@ -267,6 +269,8 @@ Code: https://github.com/skmgoldin/tcr
 1. [_Dynamic_ Token Bonding Curves](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa)
    * "What if we had bonding curves that used the shared funds in a bonding contract, but the curve were based on the individual token holder’s ‘activity’ (i.e. their portion of the total token supply)?"
 1. [On Bonding Curves as Funding Mechanisms](https://medium.com/thoughtchains/on-bonding-curves-as-funding-mechanisms-a0812b22cc3d)
+1. [Futarchy with Bonding Curve Tokens](https://ethresear.ch/t/futarchy-with-bonding-curve-tokens/3449)
+1. GitHub: [curve-bonded-tokens](https://github.com/tarrencev/curve-bonded-tokens)
 
 ###### Projects
 * Bancor
@@ -275,7 +279,7 @@ Code: https://github.com/skmgoldin/tcr
 1.  [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
 
 #### Curated Reputation
-1. [Claims Curated Registries: Thoughts on reputation development](https://medium.com/@EntrpoicNonsense/claims-curated-registries-thoughts-on-reputation-development-6d368c81516) - [See TCRs]
+1. :ballot_box_with_check: [Claims Curated Registries: Thoughts on reputation development](https://medium.com/@EntrpoicNonsense/claims-curated-registries-thoughts-on-reputation-development-6d368c81516) - [See TCRs]
 
 #### Other
 1.  [Hashtag Markets: Mashing together Reddit, Schelling Points, Tokenisation & Autonomous Organisations](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
@@ -284,7 +288,7 @@ Code: https://github.com/skmgoldin/tcr
 
 #### Tools
 
-1. [Incentivai](http://incentivai.co/)
+1. :ballot_box_with_check: [Incentivai](http://incentivai.co/)
    * "... is a tool for testing mechanism design of smart contract economies. It is done prior to deployment onto blockchain via simulation using AI agents."
 
 ### Tokenomics
