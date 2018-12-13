@@ -157,9 +157,15 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * Wikipedia: [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
     * Not N<sup>2</sup> except at low numbers. More like N*log(N).
 1. :ballot_box_with_check: [How I learned to stop worrying and love ETC](http://pdaian.com/blog/stop-worrying-love-etc/)
-1.  [Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) by Simon de la Rouviere
-1.  [Crypto Tokens:  A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
-1.  [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
+1. :ballot_box_with_check: [Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) by Simon de la Rouviere
+    * "Continuous Token Models take a different approach to quantifying interest in networks of value."
+    * "The idea is that instead of pre-selling tokens during a launch phase, the tokens are minted as needed through various means. The tokens are then dispensed for services rendered in the network."
+    * "However, if you add a global namespace, users can start using this system WITHOUT the permission of Truffle. Users would then be able to immediately start congregating around common focal (schelling) points in the same way people organise around hashtags..."
+    * See meme markets.
+1.  :ballot_box_with_check: [Crypto Tokens:  A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
+    * "Token networks remove this friction by aligning network participants to work together toward a common goal— the growth of the network and the appreciation of the token."
+1.  :ballot_box_with_check: [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
+    * [reflexive assets](https://macro-ops.com/understanding-george-soross-theory-of-reflexivity-in-markets/) - "perfect information does not exist"
 1.  [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
 1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
 1.  [On The Network Effects of Stores of Value](https://multicoin.capital/2018/05/09/on-the-network-effects-of-stores-of-value/)
@@ -280,7 +286,7 @@ Code: https://github.com/skmgoldin/tcr
 * Bancor
 
 #### Curated Governance
-1.  [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
+1. :ballot_box_with_check: [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
 
 #### Curated Reputation
 1. :ballot_box_with_check: [Claims Curated Registries: Thoughts on reputation development](https://medium.com/@EntrpoicNonsense/claims-curated-registries-thoughts-on-reputation-development-6d368c81516) - [See TCRs]
