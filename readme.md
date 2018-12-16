@@ -166,9 +166,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     * "Token networks remove this friction by aligning network participants to work together toward a common goal— the growth of the network and the appreciation of the token."
 1.  :ballot_box_with_check: [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
     * [reflexive assets](https://macro-ops.com/understanding-george-soross-theory-of-reflexivity-in-markets/) - "perfect information does not exist"
-1.  [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
-1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
-1.  [On The Network Effects of Stores of Value](https://multicoin.capital/2018/05/09/on-the-network-effects-of-stores-of-value/)
+1.  :ballot_box_with_check: [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
+1. :ballot_box_with_check: [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
+1. :ballot_box_with_check: [On The Network Effects of Stores of Value](https://multicoin.capital/2018/05/09/on-the-network-effects-of-stores-of-value/)
 1.  :ballot_box_with_check: [Power laws and Network Effects: Why BitcoinCash is not a free lunch](https://cryptofundamental.com/power-laws-and-network-effects-why-bitcoincash-is-not-a-free-lunch-5adb579972aa)
 
 ### Governance
