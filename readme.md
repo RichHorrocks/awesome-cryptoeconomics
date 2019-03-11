@@ -35,6 +35,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     - [Additional](#additional)
   - [Podcasts](#podcasts)
   - [Whitepapers](#whitepapers)
+  - [Books](#books)
   - [Other Resources](#other-resources)
   - [Blockchain Hacks and Post-mortems](#hacks)
     - [The DAO](#the-dao)
@@ -44,8 +45,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
     - [Roulette](#roulette)
 - [Additional Information](#additional-information-and-related-topics)
   - [Behavioural Economics](#behavioural-economics)
-  - [Economics](#economics)
-  - [Cryptography](#cryptography)
+  - [Related Awesome Lists](#related-lists)
+- [Licence](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -461,6 +462,9 @@ Code: https://github.com/skmgoldin/tcr
 1.  [Cryptocurrencies without PoW](https://arxiv.org/pdf/1406.5694.pdf)
 1.  [Some Simple Economics of the Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874598)
 
+## Books
+
+1. [Game Theory - A Graphic Guide](https://www.amazon.co.uk/Introducing-Game-Theory-Graphic-Guide-ebook/dp/B01J4P6L90/ref=sr_1_1?ie=UTF8&qid=1552306185&sr=8-1&keywords=game+theory+a+graphic+guide)
 ## Other Resources
 
 1.  [Casper PoS Discourse](http://ethereumresearch.trydiscourse.com/c/casper) Ethereum Foundation's Discourse channel on Casper
